@@ -1,0 +1,50 @@
+==============================================================
+
+Constructor ?
+
+-> Types of constructors .
+--> Constructor chaining,
+--> can we use acess modifiers in constructors
+
+---------------------------------------------------------
+
+Constructor is a similar method which does not have return type, but it is not a complete method,
+
+here we do not have return types, here we do not write any implementation logic building..
+
+--> The main purpose of constructors is creating a new object of that class.
+--> default constructor 
+--> Parameterized constructor..
+============================================================
+
+
+what is default constructor ?
+
+it is constructor , constructor name should be same as class name,
+
+it is not a complete,
+
+default.. , we can make public , private as a constructor then there is no use because 
+
+other class can not able to create an object as it is private in the class.
+
+===================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
